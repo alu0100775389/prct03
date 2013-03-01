@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  1 MAR 2013 11:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  1 MAR 2013 11:23
 entering extended mode
  %&-line parsing enabled.
 **latex-src.tex
@@ -23,31 +23,30 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
-Package: babel 2008/07/06 v3.8l The Babel package
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
-Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
-
-(/usr/share/texmf-texlive/tex/generic/babel/babel.def
-File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count87
-\U@D=\dimen103
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
 )
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-Package babel Warning: No hyphenation patterns were loaded for
-(babel)                the language `Spanish'
-(babel)                I will use the patterns loaded for \language=0 instead.
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
 
-\l@spanish = a dialect from \language0
-\es@datefmt=\count88
-\es@quottoks=\toks14
-\es@quotdepth=\count89
-Package babel Info: Making " an active character on input line 492.
-Package babel Info: Making . an active character on input line 585.
-Package babel Info: Making < an active character on input line 630.
-Package babel Info: Making > an active character on input line 630.
-)) (./latex-src.aux)
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (./latex-src.aux)
 \openout1 = `latex-src.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -164,16 +163,22 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 43.
- [1
+File: imagen1.eps Graphic file (type eps)
+
+<imagen1.eps>
+Overfull \vbox (1.2005pt too high) has occurred while \output is active []
+
+
+[1
 
 ] [2] (./latex-src.aux) ) 
 Here is how much of TeX's memory you used:
- 861 strings out of 495062
- 10130 string characters out of 1182644
- 66743 words of memory out of 3000000
- 4102 multiletter control sequences out of 15000+50000
+ 557 strings out of 495062
+ 6581 string characters out of 1182644
+ 55589 words of memory out of 3000000
+ 3787 multiletter control sequences out of 15000+50000
  9765 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 24i,11n,27p,168b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,19p,202b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on latex-src.dvi (2 pages, 3544 bytes).
+Output written on latex-src.dvi (2 pages, 3684 bytes).
